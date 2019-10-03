@@ -3,7 +3,7 @@ Hey  there! Do you want to help me to collect some information about how fast we
 It's very easy and only takes a few minutes!
 
 ## 1. Open the website
-For that please go to [https://reaction.thomas-windt.me/](https://reaction.thomas-windt.me/)
+For that please go to [http://reaction.thomas-windt.me/](http://reaction.thomas-windt.me/)
 
 ## 2. Fill in the form
 The most relevant here are Age and Gender.
