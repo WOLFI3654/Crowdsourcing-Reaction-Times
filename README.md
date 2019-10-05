@@ -40,3 +40,5 @@ Happy hacking!
 * ### [WOLFI3654](https://github.com/wolfi3654) - 333.1875ms 
 * ### [volker48](https://github.com/volker48) - 300.5625ms
 * ### [nicogramm](https://github.com/nicogramm) - 458ms
+* ### [Hero-Solutions](https://github.com/Hero-Solutions) - 302.125ms
+* ### [Kitania](https://github.com/Kitania) - 308.125ms
